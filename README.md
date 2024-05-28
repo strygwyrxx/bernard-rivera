@@ -50,7 +50,7 @@ The footer section contains links to my social media accounts, allowing visitors
 <br>
 <br>
 <div align="center">
-<img src="https://ibb.co/Wk2rs3X" alt="bernard" width="100%" />
+  <img src="https://i.ibb.co/NsX8vdv/bernard.jpg" alt="bernard" width="100%" />
   <br>
 </div>
 <br>
@@ -58,34 +58,35 @@ The footer section contains links to my social media accounts, allowing visitors
 <br>
 <br>
 <div align="center">
-<img src="https://ibb.co/R3Nfz03" alt="bernard" width="100%" />
+  <img src="https://i.ibb.co/BsgQHpg/bernard2.jpg" alt="bernard" width="100%" />
   <br>
 </div>
 <br>
 <br>
 <div align="center">
-<img src="https://ibb.co/Qp8CLXD" alt="bernard" width="100%" />
+  <img src="https://i.ibb.co/F3TtZG3/bernard3.jpg" alt="bernard" width="100%" />
   <br>
 </div>
 <br>
 <br>
 <div align="center">
-<img src="https://ibb.co/VpjQH4V" alt="bernard" width="100%" />
+  <img src="https://i.ibb.co/Nxc5Zpy/bernard4.jpg" alt="bernard" width="100%" />
   <br>
-  <a>click image to play the voice lines</a>
+  <a href="https://i.ibb.co/Nxc5Zpy/bernard4.jpg">Click image to play the voice lines</a>
 </div>
 <br>
 <br>
 <div align="center">
-<img src="https://ibb.co/SPwLH30" alt="bernard" width="100%" />
+  <img src="https://i.ibb.co/fk2M8tL/bernard5.jpg" alt="bernard" width="100%" />
   <br>
 </div>
 <br>
 <br>
 <div align="center">
-<img src="https://ibb.co/xDjDL7W" alt="bernard" width="100%" />
+  <img src="https://i.ibb.co/mJtdJxB/bernard6.jpg" alt="bernard" width="100%" />
   <br>
 </div>
+
 Technologies used 
 
 - **HTML** 
