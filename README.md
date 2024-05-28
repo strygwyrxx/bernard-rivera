@@ -47,45 +47,7 @@ Stay updated on my gaming journey through my social media accounts! Follow me on
 Footer
 The footer section contains links to my social media accounts, allowing visitors to connect with me outside of the Level Up platform.
 
-<br>
-<br>
-<div align="center">
-  <img src="https://i.ibb.co/NsX8vdv/bernard.jpg" alt="bernard" width="100%" />
-  <br>
-</div>
-<br>
-<br>
-<br>
-<br>
-<div align="center">
-  <img src="https://i.ibb.co/BsgQHpg/bernard2.jpg" alt="bernard" width="100%" />
-  <br>
-</div>
-<br>
-<br>
-<div align="center">
-  <img src="https://i.ibb.co/F3TtZG3/bernard3.jpg" alt="bernard" width="100%" />
-  <br>
-</div>
-<br>
-<br>
-<div align="center">
-  <img src="https://i.ibb.co/Nxc5Zpy/bernard4.jpg" alt="bernard" width="100%" />
-  <br>
-  <a href="https://i.ibb.co/Nxc5Zpy/bernard4.jpg">Click image to play the voice lines</a>
-</div>
-<br>
-<br>
-<div align="center">
-  <img src="https://i.ibb.co/fk2M8tL/bernard5.jpg" alt="bernard" width="100%" />
-  <br>
-</div>
-<br>
-<br>
-<div align="center">
-  <img src="https://i.ibb.co/mJtdJxB/bernard6.jpg" alt="bernard" width="100%" />
-  <br>
-</div>
+
 
 Technologies used 
 
